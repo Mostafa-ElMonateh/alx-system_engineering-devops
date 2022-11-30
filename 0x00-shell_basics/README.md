@@ -4,3 +4,4 @@
 3-listfiles script prints the list in a long format.
 4-listmorefiles script prints the list with hidden files in a long format.
 5-listfilesdigitonly script prints a current directory contents in a log form with user and group IDs displayed numerically and hidden files.
+6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory.
