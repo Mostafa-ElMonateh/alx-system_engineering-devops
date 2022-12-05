@@ -2,4 +2,5 @@
 - 1-confused_smiley script prints a confused "(Ôo)'.
 - 2-hellofile script display the content of the /etc/passwd file.
 - 3-twofiles script display the content of /etc/passwd and /etc/hosts.
-- 4-lastlines script dispalys the last 10 lines of /etc/passwd
+- 4-lastlines script dispalys the last 10 lines of /etc/passwd.
+- 5-firstlines script displays the first 10 lines of /etc/passwd.
