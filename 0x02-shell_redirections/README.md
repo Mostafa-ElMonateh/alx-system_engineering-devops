@@ -7,3 +7,4 @@
 - 6-third_line script displays the third line of the file iacta.
 - 7-file script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 - 8-cwd_state script prints the output of ls -la in ls_cwd_content file.
+- 9-duplicate_last_line script duplicates the last line of the file iacta
