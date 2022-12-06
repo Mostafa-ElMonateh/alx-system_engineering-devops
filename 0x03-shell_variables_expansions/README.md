@@ -9,3 +9,4 @@
 - 8-true_knowledge script prints  the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE.
 - 9-divide_and_rule script prints  the result of POWER divided by DIVIDE the result of POWER divided by DIVIDE
 - 10-love_exponent_breath script displays the result of BREATH to the power LOVE.
+- 11-binary_to_decimal script converts a number from base 2 to base 10.
