@@ -1,1 +1,2 @@
 - 100-decimal_to_hexadecimal script converts a number from base 10 to base 16.
+- 101-rot13 script  encodes and decodes text using the rot13 encryption.
